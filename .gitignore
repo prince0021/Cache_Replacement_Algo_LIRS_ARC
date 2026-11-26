@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Testing cache
+.pytest_cache/
+
+# Logs (runtime output, not needed in repo)
+logs/
+
+# Claude Code internal settings
+.claude/
+
+# Professor's template (don't submit this)
+CS_3358_Honors_Credit_Report_Template.docx
+
+# Internal prompt notes
+CLAUDE_CODE_PROMPT_v2.md
+HANDOFF.md
+
+# OS files
+.DS_Store
+
+# Word temp/lock files
+~$*.docx
+
+# R history
+.Rhistory
